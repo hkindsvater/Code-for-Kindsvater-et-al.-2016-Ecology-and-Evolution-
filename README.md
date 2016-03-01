@@ -6,4 +6,5 @@ These are the scripts used to make Figure 1, calculate the metrics in Figure 2 a
 Scripts were made using
 R version 3.2.3 (2015-12-10) -- "Wooden Christmas-Tree"
 Copyright (C) 2015 The R Foundation for Statistical Computing
+
 Platform: x86_64-apple-darwin13.4.0 (64-bit)
